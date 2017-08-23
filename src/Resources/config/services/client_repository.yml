@@ -10,3 +10,11 @@ services:
     randock.visa_center_api.order_client:
         class: Randock\VisaCenterApi\Client\OrderClient
         parent: randock.abstract.visa_center_api_client
+
+    randock.visa_center_api.transaction_client:
+        class: Randock\VisaCenterApi\Client\TransactionClient
+        parent: randock.abstract.visa_center_api_client
+
+    randock.visa_center_api.visa_type_client:
+        class: Randock\VisaCenterApi\Client\VisaTypeClient
+        parent: randock.abstract.visa_center_api_client
