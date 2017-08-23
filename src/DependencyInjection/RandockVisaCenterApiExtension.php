@@ -10,9 +10,9 @@ use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Extension\Extension;
 
 /**
- * Class VisaCenterApiClientExtension.
+ * Class RandockVisaCenterApiExtension.
  */
-class VisaCenterApiClientExtension extends Extension
+class RandockVisaCenterApiExtension extends Extension
 {
     /**
      * @param array            $configs

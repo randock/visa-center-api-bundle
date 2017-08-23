@@ -6,6 +6,6 @@ namespace Randock\VisaCenterApiBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class VisaCenterApiBundle extends Bundle
+class RandockVisaCenterApiBundle extends Bundle
 {
 }
