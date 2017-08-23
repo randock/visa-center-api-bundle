@@ -1,0 +1,23 @@
+{
+  "name": "randock/visa-center-api-bundle",
+  "description": "Randock Visa Center Api Bundle",
+  "type": "symfony-bundle",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "Randock\\VisaCenterApiBundle\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true,
+    "platform": {
+      "php": "7.1"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "symfony/framework-bundle": "^3.0",
+    "randock/visa-center-api": "dev-develop"
+  }
+}

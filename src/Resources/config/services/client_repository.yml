@@ -1,0 +1,12 @@
+services:
+    randock.abstract.visa_center_api_client:
+        abstract: true
+        public: true
+        arguments:
+            - "%randock_visa_center_api.base_uri%"
+            - "%randock_visa_center_api.version%"
+            - "%randock_visa_center_api.auth%"
+
+    randock.visa_center_api.order_client:
+        class: Randock\VisaCenterApi\Client\OrderClient
+        parent: randock.abstract.visa_center_api_client
