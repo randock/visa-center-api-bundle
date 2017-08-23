@@ -31,7 +31,14 @@ class RandockVisaCenterApiExtension extends Extension
         // set params
         $container->setParameter('randock_visa_center_api.base_uri', $config['base_uri']);
         $container->setParameter('randock_visa_center_api.version', $config['version']);
-        $container->setParameter('randock_visa_center_api.auth', $config['auth']);
+        $container->setParameter(
+            'randock_visa_center_api.auth',
+            [
+                $config['auth']['username'],
+                $config['auth']['password']
+            ]
+        );
+
 
 
     }
