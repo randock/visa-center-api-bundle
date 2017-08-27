@@ -184,16 +184,16 @@
         },
         {
             "name": "doctrine/cache",
-            "version": "v1.7.0",
+            "version": "v1.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/cache.git",
-                "reference": "53d9518ffeb019c51d542ff60cb578f076d3ff16"
+                "reference": "b3217d58609e9c8e661cd41357a54d926c4a2a1a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/cache/zipball/53d9518ffeb019c51d542ff60cb578f076d3ff16",
-                "reference": "53d9518ffeb019c51d542ff60cb578f076d3ff16",
+                "url": "https://api.github.com/repos/doctrine/cache/zipball/b3217d58609e9c8e661cd41357a54d926c4a2a1a",
+                "reference": "b3217d58609e9c8e661cd41357a54d926c4a2a1a",
                 "shasum": ""
             },
             "require": {
@@ -254,7 +254,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2017-07-22T13:00:15+00:00"
+            "time": "2017-08-25T07:02:50+00:00"
         },
         {
             "name": "doctrine/collections",
@@ -1326,16 +1326,15 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/visa-center-api.git",
-                "reference": "2552bc3d60fd0d12fb47e1cb841a3dcea9065cfc"
+                "reference": "16cf09fd332eaefcfeac09784864457e90d5be83"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/2552bc3d60fd0d12fb47e1cb841a3dcea9065cfc",
-                "reference": "2552bc3d60fd0d12fb47e1cb841a3dcea9065cfc",
+                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/16cf09fd332eaefcfeac09784864457e90d5be83",
+                "reference": "16cf09fd332eaefcfeac09784864457e90d5be83",
                 "shasum": ""
             },
             "require": {
-                "guzzlehttp/guzzle": "^6.3",
                 "randock/utils": "dev-develop",
                 "randock/value-object": "dev-develop"
             },
@@ -1353,7 +1352,7 @@
                 "proprietary"
             ],
             "description": "Randock Visa Center Api",
-            "time": "2017-08-23T12:32:04+00:00"
+            "time": "2017-08-27T13:44:19+00:00"
         },
         {
             "name": "symfony/cache",
