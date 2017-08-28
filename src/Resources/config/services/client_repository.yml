@@ -18,3 +18,7 @@ services:
     randock.visa_center_api.visa_type_client:
         class: Randock\VisaCenterApi\Client\VisaTypeClient
         parent: randock.abstract.visa_center_api_client
+
+    randock.visa_center_api.traveler_client:
+        class: Randock\VisaCenterApi\Client\TravelerClient
+        parent: randock.abstract.visa_center_api_client
