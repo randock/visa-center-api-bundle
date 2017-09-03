@@ -1,2 +1,2 @@
 imports:
-    - { resource: services/client_repository.yml }
+    - { resource: services/clients.yml }
