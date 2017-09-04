@@ -18,9 +18,10 @@ class Configuration implements ConfigurationInterface
             ->scalarNode('base_uri')->isRequired()->end()
             ->scalarNode('version')->isRequired()->end()
             ->arrayNode('auth')->children()
-                ->scalarNode('username')->isRequired()->end()
-                ->scalarNode('password')->isRequired()->end()
-                ->end()->isRequired()->end()
+                ->scalarNode('username')->end()
+                ->scalarNode('password')->end()
+                ->scalarNode('credentials_provider')->end()
+            ->end()->isRequired()->end()
             ->end()
         ;
 
