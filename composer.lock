@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d7cdae5597f39a9c3c420a6bc9b02615",
+    "content-hash": "22d554658e65d5aede6ecca77ffbaf0a",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -1322,16 +1322,16 @@
         },
         {
             "name": "randock/visa-center-api",
-            "version": "dev-story/wip",
+            "version": "dev-develop",
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/visa-center-api.git",
-                "reference": "552803654d3047079b2c7a9f9cd99b6bdb25887c"
+                "reference": "a5556473fbbb19b6cce04c808d092de05992d24a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/552803654d3047079b2c7a9f9cd99b6bdb25887c",
-                "reference": "552803654d3047079b2c7a9f9cd99b6bdb25887c",
+                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/a5556473fbbb19b6cce04c808d092de05992d24a",
+                "reference": "a5556473fbbb19b6cce04c808d092de05992d24a",
                 "shasum": ""
             },
             "require": {
@@ -1352,7 +1352,7 @@
                 "proprietary"
             ],
             "description": "Randock Visa Center Api",
-            "time": "2017-09-03T09:00:48+00:00"
+            "time": "2017-09-04T08:20:58+00:00"
         },
         {
             "name": "symfony/cache",
