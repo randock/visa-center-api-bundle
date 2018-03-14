@@ -34,3 +34,7 @@ services:
     randock.visa_center_api.province:
         class: Randock\VisaCenterApi\Client\ProvinceClient
         parent: randock.abstract.visa_center_api_client
+
+    randock.visa_center_api.validator:
+        class: Randock\VisaCenterApi\Client\ValidatorClient
+        parent: randock.abstract.visa_center_api_client
