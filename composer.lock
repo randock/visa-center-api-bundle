@@ -637,16 +637,16 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "6.3.0",
+            "version": "6.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "f4db5a78a5ea468d4831de7f0bf9d9415e348699"
+                "reference": "49e42e6539f775e80c74086a710a882e1d5a8111"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/f4db5a78a5ea468d4831de7f0bf9d9415e348699",
-                "reference": "f4db5a78a5ea468d4831de7f0bf9d9415e348699",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/49e42e6539f775e80c74086a710a882e1d5a8111",
+                "reference": "49e42e6539f775e80c74086a710a882e1d5a8111",
                 "shasum": ""
             },
             "require": {
@@ -656,7 +656,7 @@
             },
             "require-dev": {
                 "ext-curl": "*",
-                "phpunit/phpunit": "^4.0 || ^5.0",
+                "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.4",
                 "psr/log": "^1.0"
             },
             "suggest": {
@@ -665,7 +665,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "6.2-dev"
+                    "dev-master": "6.3-dev"
                 }
             },
             "autoload": {
@@ -698,7 +698,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2017-06-22T18:50:49+00:00"
+            "time": "2018-03-26T12:06:26+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -1325,12 +1325,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/visa-center-api.git",
-                "reference": "7cad73ea72de0058b58e38bcbb7733e405cf24db"
+                "reference": "eca92a720af3c0fd4003a3dc1d307c90fbb76a7b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/7cad73ea72de0058b58e38bcbb7733e405cf24db",
-                "reference": "7cad73ea72de0058b58e38bcbb7733e405cf24db",
+                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/eca92a720af3c0fd4003a3dc1d307c90fbb76a7b",
+                "reference": "eca92a720af3c0fd4003a3dc1d307c90fbb76a7b",
                 "shasum": ""
             },
             "require": {
@@ -1351,7 +1351,7 @@
                 "proprietary"
             ],
             "description": "Randock Visa Center Api",
-            "time": "2018-03-20T12:25:07+00:00"
+            "time": "2018-03-26T13:44:55+00:00"
         },
         {
             "name": "symfony/cache",
