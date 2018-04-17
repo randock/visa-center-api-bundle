@@ -520,16 +520,16 @@
         },
         {
             "name": "giggsey/libphonenumber-for-php",
-            "version": "8.9.3",
+            "version": "8.9.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/giggsey/libphonenumber-for-php.git",
-                "reference": "ace655b505f58cc75481e0df54e93418bfa4736d"
+                "reference": "dcdd1257eff60f3f3c72ba3e2d5a3b73efe317e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/giggsey/libphonenumber-for-php/zipball/ace655b505f58cc75481e0df54e93418bfa4736d",
-                "reference": "ace655b505f58cc75481e0df54e93418bfa4736d",
+                "url": "https://api.github.com/repos/giggsey/libphonenumber-for-php/zipball/dcdd1257eff60f3f3c72ba3e2d5a3b73efe317e9",
+                "reference": "dcdd1257eff60f3f3c72ba3e2d5a3b73efe317e9",
                 "shasum": ""
             },
             "require": {
@@ -584,7 +584,7 @@
                 "phonenumber",
                 "validation"
             ],
-            "time": "2018-04-05T07:34:49+00:00"
+            "time": "2018-04-17T10:23:54+00:00"
         },
         {
             "name": "giggsey/locale",
@@ -1325,12 +1325,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/visa-center-api.git",
-                "reference": "8a4f1b960632e9798d0caddbb57af252509e9073"
+                "reference": "1c6d610ca3550b3728d210fd6ad80a67af07ca08"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/8a4f1b960632e9798d0caddbb57af252509e9073",
-                "reference": "8a4f1b960632e9798d0caddbb57af252509e9073",
+                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/1c6d610ca3550b3728d210fd6ad80a67af07ca08",
+                "reference": "1c6d610ca3550b3728d210fd6ad80a67af07ca08",
                 "shasum": ""
             },
             "require": {
@@ -1351,7 +1351,7 @@
                 "proprietary"
             ],
             "description": "Randock Visa Center Api",
-            "time": "2018-03-29T09:54:35+00:00"
+            "time": "2018-04-17T12:54:20+00:00"
         },
         {
             "name": "symfony/cache",

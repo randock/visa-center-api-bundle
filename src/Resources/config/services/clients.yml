@@ -38,3 +38,7 @@ services:
     randock.visa_center_api.order_issue:
         class: Randock\VisaCenterApi\Client\OrderIssueClient
         parent: randock.abstract.visa_center_api_client
+
+    randock.visa_center_api.invoice:
+        class: Randock\VisaCenterApi\Client\InvoiceClient
+        parent: randock.abstract.visa_center_api_client
