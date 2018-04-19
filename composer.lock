@@ -1253,19 +1253,19 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/utils.git",
-                "reference": "f121025df9bee1aca4087520133b3a0312ef92ff"
+                "reference": "79f7a2fb856b3562ec7634ac5d270ac6ef1380eb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/utils/zipball/f121025df9bee1aca4087520133b3a0312ef92ff",
-                "reference": "f121025df9bee1aca4087520133b3a0312ef92ff",
+                "url": "https://api.github.com/repos/randock/utils/zipball/79f7a2fb856b3562ec7634ac5d270ac6ef1380eb",
+                "reference": "79f7a2fb856b3562ec7634ac5d270ac6ef1380eb",
                 "shasum": ""
             },
             "require": {
                 "behat/transliterator": "^1.2",
                 "cocur/slugify": "^3.0",
                 "guzzlehttp/guzzle": "^6.3",
-                "symfony/http-kernel": "^3.2",
+                "symfony/http-kernel": "^3.2|^4.0",
                 "uma/psr7-hmac": "^0.5.1"
             },
             "require-dev": {
@@ -1282,7 +1282,7 @@
                 "MIT"
             ],
             "description": "Randock Utils",
-            "time": "2017-12-19T13:31:26+00:00"
+            "time": "2018-04-18T13:53:21+00:00"
         },
         {
             "name": "randock/value-object",
@@ -1325,12 +1325,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/visa-center-api.git",
-                "reference": "1c6d610ca3550b3728d210fd6ad80a67af07ca08"
+                "reference": "acfb7997d3e7045b1b067e717e2d6c59c030a23e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/1c6d610ca3550b3728d210fd6ad80a67af07ca08",
-                "reference": "1c6d610ca3550b3728d210fd6ad80a67af07ca08",
+                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/acfb7997d3e7045b1b067e717e2d6c59c030a23e",
+                "reference": "acfb7997d3e7045b1b067e717e2d6c59c030a23e",
                 "shasum": ""
             },
             "require": {
@@ -1351,7 +1351,7 @@
                 "proprietary"
             ],
             "description": "Randock Visa Center Api",
-            "time": "2018-04-17T12:54:20+00:00"
+            "time": "2018-04-19T08:37:55+00:00"
         },
         {
             "name": "symfony/cache",
