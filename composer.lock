@@ -818,16 +818,16 @@
         },
         {
             "name": "paragonie/random_compat",
-            "version": "v2.0.14",
+            "version": "v2.0.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/random_compat.git",
-                "reference": "f6ce7dd93628088e1017fb5dd73b0b9fec7df9e5"
+                "reference": "10bcb46e8f3d365170f6de9d05245aa066b81f09"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/f6ce7dd93628088e1017fb5dd73b0b9fec7df9e5",
-                "reference": "f6ce7dd93628088e1017fb5dd73b0b9fec7df9e5",
+                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/10bcb46e8f3d365170f6de9d05245aa066b81f09",
+                "reference": "10bcb46e8f3d365170f6de9d05245aa066b81f09",
                 "shasum": ""
             },
             "require": {
@@ -863,7 +863,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2018-06-06T17:40:22+00:00"
+            "time": "2018-06-08T15:26:40+00:00"
         },
         {
             "name": "psr/cache",
@@ -1326,12 +1326,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/visa-center-api.git",
-                "reference": "8715e58249e9962e9d7772e30ea82719cb3e69e4"
+                "reference": "40884114b4d2ff089180fd692b4b98714b8788b2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/8715e58249e9962e9d7772e30ea82719cb3e69e4",
-                "reference": "8715e58249e9962e9d7772e30ea82719cb3e69e4",
+                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/40884114b4d2ff089180fd692b4b98714b8788b2",
+                "reference": "40884114b4d2ff089180fd692b4b98714b8788b2",
                 "shasum": ""
             },
             "require": {
@@ -1352,7 +1352,7 @@
                 "proprietary"
             ],
             "description": "Randock Visa Center Api",
-            "time": "2018-06-07T11:57:00+00:00"
+            "time": "2018-06-12T15:48:40+00:00"
         },
         {
             "name": "symfony/cache",
