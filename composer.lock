@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
     "content-hash": "22d554658e65d5aede6ecca77ffbaf0a",
@@ -760,16 +760,16 @@
         },
         {
             "name": "giggsey/libphonenumber-for-php",
-            "version": "8.10.7",
+            "version": "8.10.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/giggsey/libphonenumber-for-php.git",
-                "reference": "09686926c6a4ded26944602eae80e56eba088c4b"
+                "reference": "cd9b87dce1d285247be490b2b8429956f7a5e78b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/giggsey/libphonenumber-for-php/zipball/09686926c6a4ded26944602eae80e56eba088c4b",
-                "reference": "09686926c6a4ded26944602eae80e56eba088c4b",
+                "url": "https://api.github.com/repos/giggsey/libphonenumber-for-php/zipball/cd9b87dce1d285247be490b2b8429956f7a5e78b",
+                "reference": "cd9b87dce1d285247be490b2b8429956f7a5e78b",
                 "shasum": ""
             },
             "require": {
@@ -824,7 +824,7 @@
                 "phonenumber",
                 "validation"
             ],
-            "time": "2019-03-07T08:42:08+00:00"
+            "time": "2019-03-20T13:47:01+00:00"
         },
         {
             "name": "giggsey/locale",
@@ -1575,12 +1575,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/value-object.git",
-                "reference": "584e8cb5e9f93542385c2cd9cde07dabae8dbcd2"
+                "reference": "7cb06d6ddb55519cd76e6bcb952e77e392092c48"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/value-object/zipball/584e8cb5e9f93542385c2cd9cde07dabae8dbcd2",
-                "reference": "584e8cb5e9f93542385c2cd9cde07dabae8dbcd2",
+                "url": "https://api.github.com/repos/randock/value-object/zipball/7cb06d6ddb55519cd76e6bcb952e77e392092c48",
+                "reference": "7cb06d6ddb55519cd76e6bcb952e77e392092c48",
                 "shasum": ""
             },
             "require": {
@@ -1602,7 +1602,7 @@
                 "MIT"
             ],
             "description": "Randock Value Objects",
-            "time": "2019-02-19T10:15:42+00:00"
+            "time": "2019-03-20T17:28:55+00:00"
         },
         {
             "name": "randock/visa-center-api",
@@ -1610,12 +1610,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/visa-center-api.git",
-                "reference": "39ab907f2aee5362fef9cf42bf89c8d761ee8f21"
+                "reference": "9ab286388d0ea442bc773e264e26695bd3bcdd45"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/39ab907f2aee5362fef9cf42bf89c8d761ee8f21",
-                "reference": "39ab907f2aee5362fef9cf42bf89c8d761ee8f21",
+                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/9ab286388d0ea442bc773e264e26695bd3bcdd45",
+                "reference": "9ab286388d0ea442bc773e264e26695bd3bcdd45",
                 "shasum": ""
             },
             "require": {
@@ -1636,7 +1636,7 @@
                 "proprietary"
             ],
             "description": "Randock Visa Center Api",
-            "time": "2019-03-14T12:07:32+00:00"
+            "time": "2019-03-21T14:12:09+00:00"
         },
         {
             "name": "symfony/cache",
@@ -2743,7 +2743,7 @@
                 },
                 {
                     "name": "Gert de Pagter",
-                    "email": "backendtea@gmail.com"
+                    "email": "BackEndTea@gmail.com"
                 }
             ],
             "description": "Symfony polyfill for ctype functions",
