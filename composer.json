@@ -17,7 +17,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "symfony/framework-bundle": "^3.0",
+    "symfony/framework-bundle": "^3.0|4.0",
     "randock/visa-center-api": "dev-develop"
   }
 }
