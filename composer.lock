@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "f7cab57683685ca05e61d7517d47f7ec",
@@ -1610,12 +1610,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/visa-center-api.git",
-                "reference": "ea531e6345a0522ddf332038728418bbac2b8c13"
+                "reference": "0902edeb4e2ed12d6eab6bf430eba8d26564d4ac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/ea531e6345a0522ddf332038728418bbac2b8c13",
-                "reference": "ea531e6345a0522ddf332038728418bbac2b8c13",
+                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/0902edeb4e2ed12d6eab6bf430eba8d26564d4ac",
+                "reference": "0902edeb4e2ed12d6eab6bf430eba8d26564d4ac",
                 "shasum": ""
             },
             "require": {
@@ -1636,7 +1636,7 @@
                 "proprietary"
             ],
             "description": "Randock Visa Center Api",
-            "time": "2019-04-11T10:21:08+00:00"
+            "time": "2019-04-12T12:56:44+00:00"
         },
         {
             "name": "symfony/cache",
