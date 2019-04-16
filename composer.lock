@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "f7cab57683685ca05e61d7517d47f7ec",
+    "content-hash": "e96380dba73926d2f3e00c1864e79e6c",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -1606,7 +1606,7 @@
         },
         {
             "name": "randock/visa-center-api",
-            "version": "dev-develop",
+            "version": "0.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/visa-center-api.git",
@@ -3243,9 +3243,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "randock/visa-center-api": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": [],
