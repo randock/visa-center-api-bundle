@@ -30,6 +30,9 @@ class RandockVisaCenterApiExtension extends Extension
         $configuration = new Configuration();
         $config = $this->processConfiguration($configuration, $configs);
 
+        $abstractClientDefinition = $container->getDefinition('randock.abstract.visa_center_api_client');
+        $abstractClientDefinition->addMethodCall('setTransform', [$config['transform']]);
+
         // set params
         $container->setParameter('randock_visa_center_api.base_uri', $config['base_uri']);
         $container->setParameter('randock_visa_center_api.version', $config['version']);
