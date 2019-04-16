@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "f7cab57683685ca05e61d7517d47f7ec",
+    "content-hash": "5976c169ea2787821aeb947053f0b8d5",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -1606,16 +1606,16 @@
         },
         {
             "name": "randock/visa-center-api",
-            "version": "dev-develop",
+            "version": "0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/visa-center-api.git",
-                "reference": "0902edeb4e2ed12d6eab6bf430eba8d26564d4ac"
+                "reference": "b36c629439403cf168857f1247c7cc2fa3a72306"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/0902edeb4e2ed12d6eab6bf430eba8d26564d4ac",
-                "reference": "0902edeb4e2ed12d6eab6bf430eba8d26564d4ac",
+                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/b36c629439403cf168857f1247c7cc2fa3a72306",
+                "reference": "b36c629439403cf168857f1247c7cc2fa3a72306",
                 "shasum": ""
             },
             "require": {
@@ -1623,7 +1623,8 @@
                 "randock/value-object": "dev-develop"
             },
             "require-dev": {
-                "friendsofphp/php-cs-fixer": "^2.4"
+                "friendsofphp/php-cs-fixer": "^2.4",
+                "phpunit/phpunit": "^5.0"
             },
             "type": "library",
             "autoload": {
@@ -1636,7 +1637,7 @@
                 "proprietary"
             ],
             "description": "Randock Visa Center Api",
-            "time": "2019-04-12T12:56:44+00:00"
+            "time": "2019-04-16T10:24:26+00:00"
         },
         {
             "name": "symfony/cache",
@@ -3243,9 +3244,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "randock/visa-center-api": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": [],
