@@ -18,6 +18,6 @@
   "prefer-stable": true,
   "require": {
     "symfony/framework-bundle": "^3.0|^4.0",
-    "randock/visa-center-api": "~0.0.1"
+    "randock/visa-center-api": ">=0.1.0"
   }
 }
