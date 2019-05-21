@@ -760,16 +760,16 @@
         },
         {
             "name": "giggsey/libphonenumber-for-php",
-            "version": "8.10.11",
+            "version": "8.10.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/giggsey/libphonenumber-for-php.git",
-                "reference": "98f5983a33d704eafea7cc6e1cc2581883a51ddc"
+                "reference": "6187402b4949ca7edc439ed4a0396922eeb13dfa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/giggsey/libphonenumber-for-php/zipball/98f5983a33d704eafea7cc6e1cc2581883a51ddc",
-                "reference": "98f5983a33d704eafea7cc6e1cc2581883a51ddc",
+                "url": "https://api.github.com/repos/giggsey/libphonenumber-for-php/zipball/6187402b4949ca7edc439ed4a0396922eeb13dfa",
+                "reference": "6187402b4949ca7edc439ed4a0396922eeb13dfa",
                 "shasum": ""
             },
             "require": {
@@ -824,7 +824,7 @@
                 "phonenumber",
                 "validation"
             ],
-            "time": "2019-04-30T09:55:59+00:00"
+            "time": "2019-05-14T11:30:38+00:00"
         },
         {
             "name": "giggsey/locale",
@@ -1606,16 +1606,16 @@
         },
         {
             "name": "randock/visa-center-api",
-            "version": "0.1.1",
+            "version": "0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/visa-center-api.git",
-                "reference": "036fd4e20691f6b0878964a115564f30082a2ef0"
+                "reference": "7bcd842c401dcfa5bee1d8d2aeab8f355d50b192"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/036fd4e20691f6b0878964a115564f30082a2ef0",
-                "reference": "036fd4e20691f6b0878964a115564f30082a2ef0",
+                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/7bcd842c401dcfa5bee1d8d2aeab8f355d50b192",
+                "reference": "7bcd842c401dcfa5bee1d8d2aeab8f355d50b192",
                 "shasum": ""
             },
             "require": {
@@ -1637,7 +1637,7 @@
                 "proprietary"
             ],
             "description": "Randock Visa Center Api",
-            "time": "2019-05-10T12:55:30+00:00"
+            "time": "2019-05-21T13:40:09+00:00"
         },
         {
             "name": "symfony/cache",
