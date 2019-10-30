@@ -1482,6 +1482,28 @@
             "time": "2018-07-19T23:38:55+00:00"
         },
         {
+            "name": "randock/build",
+            "version": "dev-develop",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/randock/build.git",
+                "reference": "bdb5900b77cdd45430d56348688180bd36a4fed0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/randock/build/zipball/bdb5900b77cdd45430d56348688180bd36a4fed0",
+                "reference": "bdb5900b77cdd45430d56348688180bd36a4fed0",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Randock Build",
+            "time": "2019-06-11T13:30:11+00:00"
+        },
+        {
             "name": "randock/event",
             "version": "dev-develop",
             "source": {
@@ -1618,19 +1640,20 @@
         },
         {
             "name": "randock/visa-center-api",
-            "version": "0.3.12",
+            "version": "0.3.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/visa-center-api.git",
-                "reference": "b9ffe8733d4e7451e5f441e44045fd0a778e1ee9"
+                "reference": "2fbc2fdfcf46297e52bf788ef5540193fc832321"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/b9ffe8733d4e7451e5f441e44045fd0a778e1ee9",
-                "reference": "b9ffe8733d4e7451e5f441e44045fd0a778e1ee9",
+                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/2fbc2fdfcf46297e52bf788ef5540193fc832321",
+                "reference": "2fbc2fdfcf46297e52bf788ef5540193fc832321",
                 "shasum": ""
             },
             "require": {
+                "randock/build": "*",
                 "randock/utils": "^0.0.2",
                 "randock/value-object": "^0.0.9"
             },
@@ -1649,7 +1672,7 @@
                 "proprietary"
             ],
             "description": "Randock Visa Center Api",
-            "time": "2019-10-07T11:32:56+00:00"
+            "time": "2019-10-30T16:37:21+00:00"
         },
         {
             "name": "symfony/cache",
