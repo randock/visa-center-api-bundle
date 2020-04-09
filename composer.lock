@@ -1661,16 +1661,16 @@
         },
         {
             "name": "randock/visa-center-api",
-            "version": "3.2.24",
+            "version": "3.2.28",
             "source": {
                 "type": "git",
                 "url": "https://github.com/randock/visa-center-api.git",
-                "reference": "29abdd3206a0156825764e9925d615c8be3e9f64"
+                "reference": "2ae225ddd18e23d1ab8b682c93183d645964e2d3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/29abdd3206a0156825764e9925d615c8be3e9f64",
-                "reference": "29abdd3206a0156825764e9925d615c8be3e9f64",
+                "url": "https://api.github.com/repos/randock/visa-center-api/zipball/2ae225ddd18e23d1ab8b682c93183d645964e2d3",
+                "reference": "2ae225ddd18e23d1ab8b682c93183d645964e2d3",
                 "shasum": ""
             },
             "require": {
@@ -1693,7 +1693,7 @@
                 "proprietary"
             ],
             "description": "Randock Visa Center Api",
-            "time": "2020-01-29T14:14:51+00:00"
+            "time": "2020-04-09T10:28:38+00:00"
         },
         {
             "name": "symfony/cache",
